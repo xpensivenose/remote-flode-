@@ -4,3 +4,9 @@ function greet(name) {
   console.log(`Hello, ${name}!`);
 }
 greet('Alice');
+
+
+function greeting(name) {
+  console.log(`Hello, ${name}!`);
+}
+greeting('Albin');
