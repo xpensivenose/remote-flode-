@@ -5,6 +5,13 @@ function greet(name) {
 }
 greet('Alice');
 
+function greeting2(name) {
+  console.log(`Hello, ${name}!`);
+}
+greeting2('Albin');
+
+
+
 
 function greeting(name) {
   console.log(`Hello, ${name}!`);
