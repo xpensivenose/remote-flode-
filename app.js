@@ -1,1 +1,1 @@
-console.log('hej');
+console.log('hej');// TODO: lägg till funktioner
